@@ -4,7 +4,7 @@ The _WMSServerList.ini_ is a collection of public WMS services for _Maps Online 
 
 * **Name** of the WMS service.
 * **URL** for REQUEST=GetCapabilities
-* **GETMAP** (Optional) for REQUEST=GetMap
+* **GETMAP** (optional) for REQUEST=GetMap
 * **Preview** shows a particular preview of one layer. If the image does display correctly, probably the service is down or forbidden.
 
 You can download the _WMSServerList.ini_ or just copy the entry to your local file _MapsOnline.ini_.
