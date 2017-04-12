@@ -3,7 +3,7 @@
 The _WMSServerList.ini_ is a collection of public WMS services for _Maps Online App_ from Origin/OriginPro. This page provides the following information about each service:
 
 * **Name** of the WMS service.
-* **RUL** for REQUEST=GetCapabilities
+* **URL** for REQUEST=GetCapabilities
 * **GETMAP** for REQUEST=GetMap
 * **Preview** shows a particular preview of one layer. If the image does display correctly, probably the service is down or forbidden.
 
