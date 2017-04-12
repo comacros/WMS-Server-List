@@ -36,3 +36,10 @@ GETMAP=http://www.gebco.net/data_and_products/gebco_web_services/web_map_service
 _* Imagery reproduced from the GEBCO_2014 Grid, version 20150318, www.gebco.net_ 
 
 ---
+```
+[Europakart WMS]
+URL=http://wms.geonorge.no/skwms1/wms.europa?SERVICE=WMS&VERSION=1.1.1
+```
+![Europa_WMS](http://wms.geonorge.no/skwms1/wms.europa?REQUEST=GetMap&SERVICE=WMS&LAYERS=Europa_WMS&FORMAT=image/png&TRANSPARENT=FALSE&EXCEPTIONS=XML&STYLES=&BBOX=-15,28,47,82&VERSION=1.1.1&SRS=EPSG:4326&WIDTH=776&HEIGHT=676&BGCOLOR=0xFFFFFF)
+
+---
