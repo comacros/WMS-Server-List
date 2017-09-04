@@ -43,11 +43,10 @@ URL=http://wms.geonorge.no/skwms1/wms.europa?SERVICE=WMS&VERSION=1.1.1
 ![Europa_WMS](http://wms.geonorge.no/skwms1/wms.europa?REQUEST=GetMap&SERVICE=WMS&LAYERS=Europa_WMS&FORMAT=image/png&TRANSPARENT=FALSE&EXCEPTIONS=XML&STYLES=&BBOX=-15,28,47,82&VERSION=1.1.1&SRS=EPSG:4326&WIDTH=434&HEIGHT=378&BGCOLOR=0xFFFFFF)
 
 ---
-
 ```
 [Ortofotos PNOA máxima actualidad]
 URL=http://www.idee.es/wms/PNOA/PNOA
 ```
-![PNOA](http://www.idee.es/wms/PNOA/PNOA?service=wms&request=getmap&bbox=-19,27,5,44&layers=pnoa&width=434&height=307&version=1.3.0&crs=crs:84&format=image/png)
+![PNOA](http://www.idee.es/wms/PNOA/PNOA?service=wms&request=getmap&bbox=-19,27,5,44&layers=pnoa&width=434&height=307&version=1.3.0&crs=crs:84&format=image/png&bgcolor=0xf0f8ff)
 
 ----
