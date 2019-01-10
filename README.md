@@ -49,4 +49,13 @@ URL=http://www.idee.es/wms/PNOA/PNOA
 ```
 ![PNOA](http://www.idee.es/wms/PNOA/PNOA?service=wms&request=getmap&bbox=-19,27,5,44&layers=pnoa&width=434&height=307&version=1.3.0&crs=crs:84&format=image/png&bgcolor=0xf0f8ff)
 
+---
+```
+[OneGeology China]
+URL=http://onegeologychina.cgs.gov.cn/cgi-bin/mapserv.exe?map=C:/ms4w/apps/CHINAGEOLOGY/CHINA1MMAP_ENGLISH41GG.map&
+```
+![OneGeology China](http://onegeologychina.cgs.gov.cn/cgi-bin/mapserv.exe?map=C:/ms4w/apps/CHINAGEOLOGY/CHINA1MMAP_ENGLISH41GG.map&service=wms&request=getmap&bbox=-19,27,5,44&layers=pnoa&width=434&height=307&version=1.3.0&crs=crs:84&format=image/png&bgcolor=0xf0f8ff)
+
 ----
+
+http://onegeologychina.cgs.gov.cn/cgi-bin/mapserv.exe?map=C:/ms4w/apps/CHINAGEOLOGY/CHINA1MMAP_ENGLISH41GG.map&service=wms&request=getmap&bbox=73.4981,135.081,53.5592,18.1605&layers=CGS_EN_Bedrock_Geology&width=550&height=957&version=1.3.0&crs=crs:84&format=image/png&bgcolor=0xf0f8ff
