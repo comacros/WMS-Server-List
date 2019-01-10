@@ -54,7 +54,7 @@ URL=http://www.idee.es/wms/PNOA/PNOA
 [OneGeology China]
 URL=http://onegeologychina.cgs.gov.cn/cgi-bin/mapserv.exe?map=C:/ms4w/apps/CHINAGEOLOGY/CHINA1MMAP_ENGLISH41GG.map&
 ```
-![OneGeology China](http://onegeologychina.cgs.gov.cn/cgi-bin/mapserv.exe?map=C:/ms4w/apps/CHINAGEOLOGY/CHINA1MMAP_ENGLISH41GG.map&REQUEST=GetMap&SERVICE=WMS&LAYERS=CGS_EN_Bedrock_Geology&FORMAT=image/png&TRANSPARENT=FALSE&EXCEPTIONS=XML&STYLES=&BBOX=18.1605,73.498100,28.1605,113.4981&VERSION=1.3.0&CRS=EPSG:4326&WIDTH=512&HEIGHT=128&BGCOLOR=0xFFFFFF)
+![OneGeology China](http://onegeologychina.cgs.gov.cn/cgi-bin/mapserv.exe?map=C:/ms4w/apps/CHINAGEOLOGY/CHINA1MMAP_ENGLISH41GG.map&REQUEST=GetMap&SERVICE=WMS&LAYERS=CGS_EN_Bedrock_Geology&FORMAT=image/png&TRANSPARENT=FALSE&EXCEPTIONS=XML&STYLES=&BBOX=18.1605,73.498100,28.1605,93.4981&VERSION=1.3.0&CRS=EPSG:4326&WIDTH=256&HEIGHT=128&BGCOLOR=0xFFFFFF)
 
 ----
 
